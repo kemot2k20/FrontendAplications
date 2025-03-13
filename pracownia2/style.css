@@ -4,38 +4,16 @@
   font-family: "Dancing Script", cursive;
 }
 
-body {
+html body {
   font-size: 1rem;
 }
-h1 {
+html h1 {
   font-weight: 800;
   text-align: center;
 }
-p {
+html p {
   margin-left: 2.5rem;
   margin-right: 2.5rem;
-}
-.box {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  margin: 10px;
-}
-#challange4 p {
-  min-height: 50px;
-}
-li#item1,
-li#item2,
-li#item3 {
-  color: white;
-  margin: 0;
-  padding: 0;
-}
-a#link1,
-a#link2,
-a#link3 {
-  color: white;
-  text-decoration: none;
 }
 #challenge2 > #boxes > :nth-child(1) {
   background-color: lightgreen;
