@@ -41,7 +41,7 @@ html p {
   background-color: white;
   border-top: 50px solid red;
 }
-#challenge3 a {
+#challenge3 li a {
   color: darkblue;
 }
 #challenge3 a:visited {
